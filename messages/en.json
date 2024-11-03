@@ -1,0 +1,164 @@
+{
+	"navbar": {
+		"logo": "BetterThanDollar",
+		"buttonText": "Connect Wallet"
+	},
+
+	"check": {
+		"title": "BetterThanDollar: Unlock the next evolution of price stability in DeFi"
+	},
+
+	"home": {
+		"heading": {
+			"a": "Something",
+			"b": "BetterThanDollar",
+			"c": "is coming"
+		},
+		"subheading": {
+			"a": "Unlock the next evolution of price stability in DeFi.\nBetterThanDollar, censorship-resistant and with sustainable rewards",
+			"b": "Unlock the next evolution of DeFi\ndecentralized, non-custodial savings and rewards"
+		},
+		"buttonText": "Let's go!",
+		"countUpTimer": {
+			"subheading": {
+				"a": "People moving forward to next-gen price stability",
+				"b": "People breaking away with EFFICIENCY"
+			}
+		},
+		"navbar": {
+			"logo": "BetterThanDollar",
+			"buttonText": "Connect Wallet"
+		}
+	},
+
+	"rewards": {
+		"heading": {
+			"head": "Three steps to boost your rewards",
+			"month": {
+				"a": "Join before ",
+				"b": " and all your future",
+				"c": "rewards will be multiplied by",
+				"d": "kickoff January 20th"
+			}
+		},
+		"details": {
+			"a": "The sooner you join, the more your rewards will get boosted!",
+			"b": "Complete the three steps in the box ",
+			"c": "Once ",
+			"d": " BetterThanDollar launches, you will accumulate your boosted rewards simply by holding and sending the new super-token.",
+			"e": "In the next phase claim the rewards in the wallet you connect here."
+		},
+		"rewardProgram": {
+			"heading": "Join the BetterThanDollar reward program:",
+			"follow": {
+				"text": "Follow us on X:",
+				"clientTwitterAcct": "betterthandolla",
+				"button": "Follow"
+			},
+			"post": {
+				"text": "Make a post on your X and share the word:",
+				"button": "Post"
+			},
+			"verify": {
+				"placeholder": "Verify the link to your shared tweet:",
+				"button": "Verify"
+			},
+			"sign": {
+				"text": "Connect your wallet on ethereum and sign:",
+				"button": "Sign message"
+			},
+			"footer": "Sign the message to confirm eligibility.\nYour connected wallet will qualify to claim boosted BetterThanDollar rewards."
+		},
+		"launchDate": "January 20, 2025 10:57:00",
+		"footer": "Countdown to launch",
+		"navbar": {
+			"logo": "BetterThanDollar",
+			"buttonText": "Connect Wallet"
+		}
+	},
+
+	"questionnaire": {
+		"heading": {
+			"a": "What makes",
+			"b": "BetterThanDollar"
+		},
+		"information": {
+			"a": "On blockchains, more than 99% of stablecoins are pegged to the US dollar, despite less than 10% of all users being from the USA. This leaves more than 90% of users worldwide vulnerable to the wild fluctuations in the dollar relative to their local currencies.",
+			"b": "What do you believe is the most important feature for a new super-stable token to be better than the dollar? Is it that:",
+			"list": {
+				"a": "It offers BETTER PRICE STABILITY to your national currency than US$-reference tokens",
+				"b": "The better STABILITY IS SHARED AMONG ITS USERS benefitting everyone and... not only one small group (one country) enjoys all the benefits",
+				"c": "It provides CENSORSHIP RESISTANCE unlike traditional dollar-referenced tokens",
+				"d": "It is a NEUTRAL BLOCKCHAIN NATIVE SOLUTION that does not just refer to an old-fashioned fiat currency and its related politics."
+			},
+			"c": "Click on your choice to the right and share it on X"
+		},
+		"options": [
+			"PRICE STABILITY",
+			"SHARED STABILITY",
+			"CENSORSHIP RESISTANCE",
+			"NEUTRALITY"
+		],
+		"navbar": {
+			"logo": "BetterThanDollar",
+			"buttonText": "Connect Wallet"
+		}
+	},
+
+	"finished": {
+		"title": "BetterThanDollar",
+		"heading": "Mission Complete!",
+		"subheading": "To us, you are already more valuable than the dollar, please come back and get triple rewards. \nKeep your eyes on @BetterThanDollar\n on X for launch details.",
+		"buttonText": "Got it"
+	},
+
+	"answer": {
+		"version": [
+			{
+				"heading": "YES",
+				"subheading": "Better price stability to your national currency is a very important function of the new super-stable.",
+				"details": {
+					"a": "The new",
+					"b": "is #BetterThanDollar when offering better price stability towards my national currency than any of the USD-pegged #stablecoins."
+				},
+				"buttonText": "Post",
+				"post": "New super-coin is on the horizon!\nIt’s the first token to provide better international price stability than any USD-pegged coins.🌍\n\nDo as I did: Visit the website below, follow @betterthandolla and share a post about a solution that is coming.🔴🔴🔴\n\nhttps://betterthandollar.com"
+			},
+			{
+				"heading": "YES",
+				"subheading": "It is most fair when all benefit from the better stability.",
+				"details": {
+					"a": "The new",
+					"b": "is #BetterThanDollar when the stability is shared, benefitting all users and not just those having one specific national currency."
+				},
+				"buttonText": "Post",
+				"post": "New super-coin is coming!\nIt’s unbiased and shares price stability among all, not favoring the US dollar over all others. Fair to all!⚖️\n\nDo as I did: Visit the website below, follow @betterthandolla and share a post about a solution that is coming🔴🔴🔴\n\nhttps://betterthandollar.com"
+			},
+			{
+				"heading": "YES",
+				"subheading": "Being censorship-resistance is an increasingly important function of the new super-stable.",
+				"details": {
+					"a": "The new",
+					"b": "is #BetterThanDollar by standing against arbitrary government actions and their ability to confiscate my assets remotely without legal basis."
+				},
+				"buttonText": "Post",
+				"post": "New resistant super-coin is coming soon!\nFreedom of currency is as important as freedom of speech. Say NO to built-in freeze function.🔒\n\nDo as I did: Visit the website below, follow @betterthandolla and share a post about a solution that is coming🔴🔴🔴\n\nhttps://betterthandollar.com"
+			},
+			{
+				"heading": "YES",
+				"subheading": "To be neutral is an important function of the new super-stable.",
+				"details": {
+					"a": "The new",
+					"b": "#BetterThanDollar is not leaning on a national currency related to the politics of that nation, but simply ensures a superior price stablilty based on modern technology."
+				},
+				"buttonText": "Post",
+				"post": "New neutral super-coin, soon!\nIt’s neutral, simply ensuring the best price stability, that is free from money-related politics.🤝\n\nDo as I did: Visit the website below, follow @betterthandolla, and share a post about a solution that is coming🔴🔴🔴\n\nhttps://betterthandollar.com\n#DeFi"
+			}
+		],
+
+		"navbar": {
+			"logo": "BetterThanDollar",
+			"buttonText": "Connect Wallet"
+		}
+	}
+}

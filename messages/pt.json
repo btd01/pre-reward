@@ -1,0 +1,164 @@
+{
+	"navbar": {
+		"logo": "MelhorQueDólar",
+		"buttonText": "Conectar Carteira"
+	},
+
+	"check": {
+		"title": "MelhorQueDólar: desbloqueie a próxima evolução da estabilidade de preços no DeFi"
+	},
+
+	"home": {
+		"heading": {
+			"a": "Algo",
+			"b": "MelhorQueDólar",
+			"c": "está chegando"
+		},
+		"subheading": {
+			"a": "Desbloqueie a próxima evolução da estabilidade de preços no DeFi.\nMelhorQueDólar, resistente à censura e com recompensas sustentáveis",
+			"b": "Desbloqueie a próxima evolução do DeFi\neconomias e recompensas descentralizadas e não-custodiais"
+		},
+		"buttonText": "Vamos lá!",
+		"countUpTimer": {
+			"subheading": {
+				"a": "Pessoas avançando para a estabilidade de preços de última geração",
+				"b": "Pessoas se libertando com EFICIÊNCIA"
+			}
+		},
+		"navbar": {
+			"logo": "MelhorQueDólar",
+			"buttonText": "Conectar Carteira"
+		}
+	},
+
+	"rewards": {
+		"heading": {
+			"head": "Três passos para aumentar suas recompensas",
+			"month": {
+				"a": "Junte-se antes de ",
+				"b": " e todas as suas futuras",
+				"c": "recompensas serão multiplicadas por",
+				"d": "lançamento em 20 de janeiro"
+			}
+		},
+		"details": {
+			"a": "Quanto mais cedo você se juntar, mais suas recompensas serão aumentadas!",
+			"b": "Complete os três passos na caixa ",
+			"c": "Assim que ",
+			"d": " MelhorQueDólar for lançado, você acumulará suas recompensas aumentadas apenas segurando e enviando o novo super-token.",
+			"e": "Na próxima fase, resgate as recompensas na carteira que você conectar aqui."
+		},
+		"rewardProgram": {
+			"heading": "Participe do programa de recompensas MelhorQueDólar:",
+			"follow": {
+				"text": "Siga-nos no X:",
+				"clientTwitterAcct": "melhorquedolar",
+				"button": "Seguir"
+			},
+			"post": {
+				"text": "Faça uma postagem no seu X e compartilhe:",
+				"button": "Postar"
+			},
+			"verify": {
+				"placeholder": "Verifique o link para seu tweet compartilhado:",
+				"button": "Verificar"
+			},
+			"sign": {
+				"text": "Conecte sua carteira no Ethereum e assine:",
+				"button": "Assinar mensagem"
+			},
+			"footer": "Assine a mensagem para confirmar a elegibilidade.\nSua carteira conectada se qualificará para resgatar recompensas aumentadas MelhorQueDólar."
+		},
+		"launchDate": "20 de janeiro de 2025 10:57:00",
+		"footer": "Contagem regressiva para o lançamento",
+		"navbar": {
+			"logo": "MelhorQueDólar",
+			"buttonText": "Conectar Carteira"
+		}
+	},
+
+	"questionnare": {
+		"heading": {
+			"a": "O que torna",
+			"b": "MelhorQueDólar"
+		},
+		"information": {
+			"a": "Nos blockchains, mais de 99% das stablecoins estão atreladas ao dólar americano, apesar de menos de 10% de todos os usuários serem dos EUA. Isso deixa mais de 90% dos usuários em todo o mundo vulneráveis às grandes flutuações do dólar em relação às suas moedas locais.",
+			"b": "O que você acredita ser o recurso mais importante para um novo super-token estável ser melhor que o dólar? Seria:",
+			"list": {
+				"a": "Oferece MELHOR ESTABILIDADE DE PREÇOS para sua moeda nacional do que tokens com referência ao dólar americano",
+				"b": "A melhor ESTABILIDADE É COMPARTILHADA ENTRE OS USUÁRIOS, beneficiando todos, e não apenas um pequeno grupo (um país) desfruta de todos os benefícios",
+				"c": "Oferece RESISTÊNCIA À CENSURA, ao contrário dos tokens tradicionais referenciados em dólar",
+				"d": "É uma SOLUÇÃO NATIVA DE BLOCKCHAIN NEUTRA, que não se refere apenas a uma moeda fiduciária antiquada e sua política relacionada."
+			},
+			"c": "Clique na sua escolha à direita e compartilhe no X"
+		},
+		"options": [
+			"ESTABILIDADE DE PREÇOS",
+			"ESTABILIDADE COMPARTILHADA",
+			"RESISTÊNCIA À CENSURA",
+			"NEUTRALIDADE"
+		],
+		"navbar": {
+			"logo": "MelhorQueDólar",
+			"buttonText": "Conectar Carteira"
+		}
+	},
+
+	"finished": {
+		"title": "MelhorQueDólar",
+		"heading": "Missão Cumprida!",
+		"subheading": "Para nós, você já é mais valioso que o dólar, volte e ganhe recompensas triplas.\nFique de olho em @MelhorQueDólar no X para detalhes de lançamento.",
+		"buttonText": "Entendi"
+	},
+
+	"answer": {
+		"version": [
+			{
+				"heading": "SIM",
+				"subheading": "Melhor estabilidade de preço para sua moeda nacional é uma função muito importante do novo super-estável.",
+				"details": {
+					"a": "O novo",
+					"b": "é #MelhorQueDólar ao oferecer melhor estabilidade de preço para minha moeda nacional do que qualquer um dos #stablecoins atrelados ao dólar americano."
+				},
+				"buttonText": "Postar",
+				"post": "Nova super-moeda está no horizonte!\nÉ o primeiro token a proporcionar melhor estabilidade de preço internacional do que qualquer moeda atrelada ao dólar americano.🌍\n\nFaça como eu: Visite o site abaixo, siga @melhorquedolar e compartilhe uma postagem sobre uma solução que está chegando.🔴🔴🔴\n\nhttps://betterthandollar.com"
+			},
+			{
+				"heading": "SIM",
+				"subheading": "É mais justo quando todos se beneficiam da melhor estabilidade.",
+				"details": {
+					"a": "O novo",
+					"b": "é #MelhorQueDólar quando a estabilidade é compartilhada, beneficiando todos os usuários e não apenas aqueles que possuem uma moeda nacional específica."
+				},
+				"buttonText": "Postar",
+				"post": "Nova super-moeda está chegando!\nÉ imparcial e compartilha estabilidade de preço entre todos, não favorecendo o dólar americano sobre todos os outros. Justo para todos!⚖️\n\nFaça como eu: Visite o site abaixo, siga @melhorquedolar e compartilhe uma postagem sobre uma solução que está chegando🔴🔴🔴\n\nhttps://betterthandollar.com"
+			},
+			{
+				"heading": "SIM",
+				"subheading": "Ser resistente à censura é uma função cada vez mais importante do novo super-estável.",
+				"details": {
+					"a": "O novo",
+					"b": "é #MelhorQueDólar ao se opor a ações arbitrárias do governo e à capacidade de confiscar meus ativos remotamente sem base legal."
+				},
+				"buttonText": "Postar",
+				"post": "Nova super-moeda resistente está chegando!\nA liberdade de moeda é tão importante quanto a liberdade de expressão. Diga NÃO à função de bloqueio embutido.🔒\n\nFaça como eu: Visite o site abaixo, siga @melhorquedolar e compartilhe uma postagem sobre uma solução que está chegando🔴🔴🔴\n\nhttps://betterthandollar.com"
+			},
+			{
+				"heading": "SIM",
+				"subheading": "Ser neutro é uma função importante do novo super-estável.",
+				"details": {
+					"a": "O novo",
+					"b": "#MelhorQueDólar não depende de uma moeda nacional relacionada à política dessa nação, mas simplesmente garante uma estabilidade de preço superior com base em tecnologia moderna."
+				},
+				"buttonText": "Postar",
+				"post": "Nova super-moeda neutra, em breve!\nÉ neutra e simplesmente garante a melhor estabilidade de preço, livre de políticas relacionadas ao dinheiro.🤝\n\nFaça como eu: Visite o site abaixo, siga @melhorquedolar e compartilhe uma postagem sobre uma solução que está chegando🔴🔴🔴\n\nhttps://betterthandollar.com\n#DeFi"
+			}
+		],
+
+		"navbar": {
+			"logo": "MelhorQueDólar",
+			"buttonText": "Conectar Carteira"
+		}
+	}
+}

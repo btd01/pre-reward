@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif !important;
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 90px;
+}
+
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 55px;
+    line-height: 55px;
+}
+
+h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+ul {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 55px;
+    line-height: 55px;
+}
+
+.h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+.p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.css-r4d5p-MuiSvgIcon-root-MuiSelect-icon {
+    -webkit-transform: rotate(0deg) !important;
+    -moz-transform: rotate(0deg) !important;
+    -ms-transform: rotate(0deg) !important;
+    transform: rotate(0deg) !important;
+}
+
+.css-pi3kvw {
+    transform: rotate(0deg) !important;
+}
+
+.css-11brhm3-MuiSelect-select-MuiInputBase-input.css-11brhm3-MuiSelect-select-MuiInputBase-input.css-11brhm3-MuiSelect-select-MuiInputBase-input {
+    padding-right: 47px !important;
+}
+
+.css-1etd7nh.css-1etd7nh.css-1etd7nh {
+padding-right: 47px !important;
+}
+
+.css-11brhm3-MuiSelect-select-MuiInputBase-input {
+    padding: 4px 0 4px !important;
+}
+
+.css-1etd7nh {
+    padding: 4px 0 4px !important;
+}
+
+.css-1h4bzp1-MuiButtonBase-root-MuiMenuItem-root {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    justify-content: end !important;
+    align-items: end !important;
+}
+
+.css-ljk74r {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    justify-content: end !important;
+    align-items: end !important;
+}
+
+.css-1xomo8h-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+    border-radius: 14px !important;
+}
+
+.css-81kwad {
+    border-radius: 14px !important;
+}
+
+.css-1h4bzp1-MuiButtonBase-root-MuiMenuItem-root.Mui-selected {
+    background-color: white !important;
+}
+
+.css-ljk74r.Mui-selected {
+    background-color: white !important;
+}
